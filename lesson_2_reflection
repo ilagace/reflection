@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	generate git subdirectory, git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	get files ready for commit, more flexibility
+
