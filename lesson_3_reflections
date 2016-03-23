@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 do not want remote changes appearing while working on some large edit/modification
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork creates a GitHub clone on GitHub, clone are created on local PC, branches can be created on both
+
