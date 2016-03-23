@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Fork creates a GitHub clone on GitHub, clone are created on local PC, branches can be created on both
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+so we can check for conflicts/differences from collaborators
+
